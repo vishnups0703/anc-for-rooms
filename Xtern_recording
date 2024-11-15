@@ -3,7 +3,7 @@ import sounddevice as sd
 import matplotlib.pyplot as plt
 import time
 
-# Parameters
+#Related  Parameters
 fs = 44100  # Sampling frequency
 duration = 5.0  # Duration for processing
 mu = 0.98 # Step size for adaptation
