@@ -43,5 +43,7 @@ Kindly Refer to the detailed report for knowing the components used
 
 4. A. J. Hull, C. Radcliffe, and S. Southward, “Global active noise control of a one-dimensional acoustic duct using a feedback controller,” 1993.
 
-
+## Contributors
+Simulation and Research - @VishnuPS & @AmarnathKV(https://github.com/Amar-Ram2003)
+Hardware Implementaion - @VyshnavPS(https://github.com/vyshneav) & @VyshnavSanthosh(https://github.com/VyshnavSanthosh)
 
